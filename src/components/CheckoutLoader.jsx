@@ -6,7 +6,7 @@ import { useEffect, useRef, useState } from 'react';
  */
 export default function CheckoutLoader({
   open,
-  logoSrc = '/brooklinen-logo.svg',
+  logoSrc = '/brooklinen-logo.png',
   brandLabel = 'Brooklinen',
   onDone,
 }) {

@@ -1,6 +1,6 @@
 export const brand = {
   name: 'Brooklinen',
-  logoSrc: '/brooklinen-logo.svg',
+  logoSrc: '/brooklinen-logo.png',
   freeShippingThreshold: 100,
   tagline: 'Best In Bed',
 };

@@ -87,13 +87,13 @@ body {
 }
 
 .checkout-sheet__brand-logo {
-  height: 48px;
+  height: 56px;
   width: auto;
 }
 
 .logo,
 .site-logo img {
-  height: 44px;
+  height: 48px;
   width: auto;
   display: block;
 }
@@ -432,9 +432,9 @@ body {
 
 .checkout-loader__logo {
   display: block;
-  width: min(220px, 62vw);
+  width: min(260px, 70vw);
   height: auto;
-  /* logo SVG is dark — invert for black overlay */
+  /* official lockup is dark navy — invert for black overlay */
   filter: brightness(0) invert(1);
 }
 
